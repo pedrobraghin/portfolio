@@ -23,7 +23,6 @@ const Container = styled.section`
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  flex-wrap: wrap;
 `;
 
 const SkillsWrapper = styled.div`

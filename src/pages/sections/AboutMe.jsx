@@ -38,7 +38,6 @@ const Container = styled.section`
     gap: 1rem;
 
     .col {
-      max-height: 80vh;
       overflow: hidden;
     }
     
@@ -60,9 +59,12 @@ const Container = styled.section`
 
     .right-col {
       width: 100%;
-      
+      display: grid;
+      place-items: center;
+
       & > img {
         transition: transform 5s ease-in-out;
+        max-height: 80vh;
         width: 100%;
         height: 100%;
         object-fit: cover;

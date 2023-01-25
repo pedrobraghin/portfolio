@@ -15,7 +15,8 @@ const Container = styled.div`
   flex-direction: column;
   justify-content: space-between;
   align-items: left;
-  width: 40vw;
+  max-width: 38vw;
+  width: 100%;
   height: 150px;
   border-radius: 5px;
   background-color: rgba(25, 25, 25, 0.8);
@@ -46,8 +47,8 @@ const Container = styled.div`
     color: #575757;
   }
 
-  @media screen and (max-width:400px) {
-    width: 80vw;
+  @media screen and (max-width:933px) {
+    max-width: 80vw;
   }
 
 `;

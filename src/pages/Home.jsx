@@ -36,4 +36,10 @@ const Content = styled.main`
   section {
     padding: 2rem 2rem;
   }
+
+  @media screen and (max-width: 481px) {
+    section {
+      padding: 2rem 0;
+    } 
+  }
 `;

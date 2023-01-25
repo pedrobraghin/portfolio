@@ -49,6 +49,7 @@ const Container = styled.section`
       overflow: hidden;
       white-space: nowrap;
       margin: 0 auto;
+      font-size: 1.2rem;
     }
 
     .subtitle {
