@@ -7,13 +7,10 @@ export function AboutMe() {
       <div className="content">
         <div className="left-col col">
           <p>
-            I'm a college student in the course of Infomation Systems in a federal institution. I was started my studies in the programming area even not know what I was doing. In the beggining it was very incridible, and felt that it was for me, since then I'm very passionate about this world. Now, talking about my experiences, I'm currently I'm interning part-time at the <a href="https://compass.uol" target="_blank">Compass UOL</a> at the scolarship program. The main focus of the program is study about Node.js with TypeScript and AWS too. I think that a have a lot to learning yet.
+          I'm a college student in the course of Information Systems, and currently I'm in third year. I was started my studies in the programming area even not know what I was doing. In the beggining it was very incridible, and I felt that it was for me, since then I'm very passionate about this world. About my experiences, I'm interning part-time at the <a href="https://compass.uol" target="_blank">Compass UOL</a> at the scolarship program. The main focus of the program is study about Node.js with TypeScript and AWS too.
           </p>
           <p>
-            Talking a little bit about me as a common people, I like to learn about everything, I like music, do some travels, and many oner things. But, the main thing that a couldn't remove of my life is programming. Since that I realized that programming exists, this change my life to better. And, I believe that programming it will change much more. 
-          </p>
-          <p>
-            Keep scrolling down and check some of my projects. If you want contact me, click in on of the links floating. Be very welcome in my portfolio, enjoy the travel!
+            Keep scrolling down and check some of my projects. If you want contact me, click in one of the floating links beside.
           </p>
         </div>
         <div className="right-col col">
